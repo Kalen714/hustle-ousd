@@ -1,2 +1,3 @@
 # hustle-ousd
-test repositary 
+
+This is my repo for all my Hack The Hood Hustle OUSD curriculm.
