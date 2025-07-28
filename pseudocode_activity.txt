@@ -1,0 +1,13 @@
+START
+
+# Step 1
+1. Set the time the alarm goes off
+1a. Set the time in hours 
+1b. Set the time in minutes
+1c. Set the time in AM/PM
+
+Step 2
+2a. Set the days in the week the alarm should go off
+2b. Set the time for each day for the alarm to go off
+
+
